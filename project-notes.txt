@@ -1,1 +1,2 @@
 Learning the Git workflow.
+A line to demonstrate git diff.
