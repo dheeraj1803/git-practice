@@ -1,6 +1,6 @@
 # Git Practice
 
-This line was written on the main branch.
+This line was resolved by combining both branch edits.
 Covers the full Git and GitHub workflow: cloning, staging, committing,
 branching, merging, conflict resolution, reverting, tags, and pull requests.
 
